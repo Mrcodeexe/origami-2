@@ -1,0 +1,24 @@
+h1{
+    color: burlywood;
+}
+h3{
+    color: coral;
+}
+
+.title{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+
+.crafts{
+    background-color: hotpink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.end{
+    background-color: indianred;
+    display: flex;
+    justify-content: center;
+}
